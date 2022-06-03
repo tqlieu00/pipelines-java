@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TLieu0447/pipelines-java/_apis/build/status/tqlieu00.pipelines-java?branchName=main)](https://dev.azure.com/TLieu0447/pipelines-java/_build/latest?definitionId=6&branchName=main)
 
 # Contributing
 
